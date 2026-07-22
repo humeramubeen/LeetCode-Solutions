@@ -87,7 +87,7 @@ LeetCode-Java/
 ## 📈 Progress
 
 - **Language:** Java
-- **Problems Solved:** 23
+- **Problems Solved:** 27
 - **Status:** Actively solving more problems.
 
 ---
